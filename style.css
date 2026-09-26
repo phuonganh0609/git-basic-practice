@@ -4,3 +4,11 @@ body {
   color: #203040;
   padding: 40px;
 }
+
+h1 {
+  color: #2563eb;
+}
+
+p {
+  line-height: 1.6;
+}

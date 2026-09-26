@@ -1,0 +1,5 @@
+Ghi chu Bai 2:
+- Lap lai quy trinh git add va git commit cho tung thay doi.
+- File notes.txt bat dau duoc theo doi trong commit Update style and notes.
+- Dung git log --oneline de xem lich su rut gon.
+- Dung git show HEAD de xem noi dung commit gan nhat.
