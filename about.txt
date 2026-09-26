@@ -1,0 +1,3 @@
+Git Basic Practice
+Bai 5: Thuc hanh clone, commit, push va pull.
+File nay duoc tao tai local va day len GitHub.
